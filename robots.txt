@@ -1,0 +1,3 @@
+# Deny direct access to internal webserver
+User-agent: *
+Disallow: /
