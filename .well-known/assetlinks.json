@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ru.demax.rhythmerr",
+        "sha256_cert_fingerprints": [
+          "F9:BB:56:D3:E0:66:92:7B:55:F3:B1:5D:58:F5:A2:DB:7B:FB:A0:0C:8B:45:29:86:D6:85:A7:45:DC:45:7F:BD"
+        ]
+      }
+    }
+  ]
